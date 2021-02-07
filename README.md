@@ -1,4 +1,4 @@
-# react-native-chat-app-firebase
+# Chat App
 
  ![ezgif com-gif-maker](https://user-images.githubusercontent.com/41873800/107127028-74f4a180-68c4-11eb-8923-24073fb840ae.gif)
 
